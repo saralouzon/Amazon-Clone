@@ -1,0 +1,25 @@
+.categories-container {
+    padding-top: 5.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.btn-category {
+    width: 100%;
+    padding: 10px;
+    font-size: 1rem;
+    font-weight: bold;
+    background-color: #2d2f31;
+    color: white;
+    border: 0;
+}
+
+.btn-category:hover {
+    background-color: #444647;
+    cursor: pointer;
+}
+
+.skeleton {
+    border-radius: 4px;
+}
